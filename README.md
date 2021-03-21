@@ -56,11 +56,14 @@ So - our applicaiton calls the pipedream webhook, which in turn passes the call 
 
 ### Technical Requirements: 
 
-This site is interactive,intuitive and easy to navigate.
+This site is interactive, intuitive and easy to navigate.
 
 This site is responsive.
 
-This site uses 2 server-side API's.
+This site uses 3 server-side API's.
+* https://icanhazdadjoke.com (a simple dad joke API)
+* https://api.nasa.gov/planetary/apod (NASA's Astronomy Picture of the Day)
+* https://pipedream.net (for passthru integration to a slack webhook)
 
 This site does not use alerts, confirms, or prompts.
 
