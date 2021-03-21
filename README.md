@@ -10,7 +10,7 @@ I WANT TO lift my spirits with a fun random joke, and view the astronomy image o
 SO THAT I may lighten my mood during this pandemic.
 ```
 ## Link to Site
-https://jess20005.github.io/API_Project/
+https://jonesjsc.github.io/Project-1-API-Basics/
 
 ## Site Usage/Screenshots
 
@@ -71,9 +71,9 @@ This site also utilizes client-side local storage.
 ## Link to Site
 
 You can view the link to our site here:
-https://jess20005.github.io/API_Project/
+https://jonesjsc.github.io/Project-1-API-Basics/
 
 ## GitHub Repository
 
 You can view the link to our GitHub repository here: 
-https://github.com/Jess20005/API_Project.git
+https://github.com/jonesjsc/Project-1-API-Basics
